@@ -15,4 +15,4 @@ repositorio
 Hacemos un cambio
 
 Cambio desde master 2   
-Cambios al archivo en la rama2 
+Cambios al archivo en la rama2  
