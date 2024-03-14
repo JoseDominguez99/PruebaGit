@@ -1,0 +1,11 @@
+commits
+ramas (branc)
+intersecciones (merge)
+
+area de trabajo (Proyecto local)
+git add
+
+area de preparación
+git commit
+
+repositorio
