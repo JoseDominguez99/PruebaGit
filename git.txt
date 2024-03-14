@@ -9,3 +9,6 @@ area de preparación
 git commit
 
 repositorio
+
+
+Cambios al archivo en la rama2 
